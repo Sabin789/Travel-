@@ -1,0 +1,22 @@
+nav img{
+    height: 40px;
+    border-radius: 50%;
+}
+
+#deal img{
+    height: 200px;
+}
+#summer img{
+    height: 200px;
+}
+#day img{
+    width: 100%;
+}
+
+
+
+@media screen and(max-width:"576px") {
+    #day{
+        display: none;
+    }
+}
